@@ -1,5 +1,5 @@
 # Free Search API
-<img src="https://i.ibb.co/nM5ggVVV/Untitled-design-2.png" width="360" height="360">
+<img src="https://camo.githubusercontent.com/df8d9ed52565a6c15285d627e7dd93c31b99c5085e41809391113031d5f96ceb/68747470733a2f2f692e6962622e636f2f6e4d3567675656562f556e7469746c65642d64657369676e2d322e706e67" width="360" height="360">
 
 Free Search API provides real time Google search results to enhance internet accessibility for AI agents and LLM applications.
 
