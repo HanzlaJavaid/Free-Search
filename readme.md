@@ -1,6 +1,7 @@
 # Free Search API
+<img src="https://i.ibb.co/nM5ggVVV/Untitled-design-2.png" width="360" height="360">
 
-A FastAPI-based search service that performs web searches and retrieves content from search results.
+Free Search API provides real time Google search results to enhance internet accessibility for AI agents and LLM applications.
 
 ## Overview
 
