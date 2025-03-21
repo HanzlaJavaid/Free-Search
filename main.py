@@ -8,7 +8,7 @@ from workflows.text_query_search import searxng_query
 
 app = FastAPI(title="Search Service")
 
-
+## TODO: Add Image search
 @app.get("/search", response_model=List[SearchResult])
 def search(query: str, max_results: int = 3, max_content: int = 2000):
     """
