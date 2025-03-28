@@ -72,5 +72,5 @@ curl "http://localhost:11235/search?query=fastapi+tutorial&max_results=2&max_con
 
 A publicly accessible demo of this API has been hosted
 
-URL: https://freesearch.replit.app/
+URL: https://freesearch.replit.app/docs
 
